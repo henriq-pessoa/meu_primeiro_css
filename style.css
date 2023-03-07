@@ -1,0 +1,33 @@
+.corpo {
+    margin: 0;
+}
+
+.card {
+    width: 500px;
+    height: fit-content;
+    background: linear-gradient(white, rgb(218, 214, 214), rgb(197, 193, 193));
+    border-radius: 25px;
+    border: solid 2px #000000;
+    padding: 5px;
+}
+
+.boxImage {
+    width: 100px;
+    height: 100px;
+    background-color: #022419;
+    border: 1px solid #022419;
+    border-radius: 50px;;
+}
+
+.estiloH1 {
+    font-family: monospace, sans-serif;
+    font-size: 30px;
+    font-style: normal;
+}
+
+.color {
+    color: red;
+}
+.color-p{
+    color: magenta;
+}
